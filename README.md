@@ -15,7 +15,7 @@ Tracking these was started from v2.7 phase 2, so availability for previous artwo
 
 ### Phase 2
 
-[Cissia] (https://fastcdn.hoyoverse.com/static-resource-v2/2026/04/13/0257a2096f3aaa90000edd89a7a69302_4544394785191022906.webm)
+[Cissia](https://fastcdn.hoyoverse.com/static-resource-v2/2026/04/13/0257a2096f3aaa90000edd89a7a69302_4544394785191022906.webm)
 
-[Nangong_and_Cissia] (https://fastcdn.hoyoverse.com/static-resource-v2/2026/03/22/0faeb023eea9aec1ab6b34220e6a5583_2283057186798698045.webm)
+[Nangong_and_Cissia](https://fastcdn.hoyoverse.com/static-resource-v2/2026/03/22/0faeb023eea9aec1ab6b34220e6a5583_2283057186798698045.webm)
 
